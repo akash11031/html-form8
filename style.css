@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Wittgenstein", serif;
+    color: rgb(248, 212, 6);
+}
+
+.container-fluid{
+    height: 100vh;
+    background: url(./img/pic1.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+form{
+    
+    width: 80vh;
+    height: 80vh;
+    
+}
+
+form .form-control{
+    
+}
+
+.modal{
+    color: rgb(245, 8, 8);
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+.text{
+    margin-top: 120px;
+    font-size: 20px;
+    font-weight: 600px;
+    color: rgb(0, 250, 230);
+}
+.text h1{
+    margin-top: 120px;
+    font-size: 50px;
+    font-weight: 600px;
+    color: rgb(6, 224, 13);
+}
